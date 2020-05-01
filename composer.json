@@ -1,0 +1,11 @@
+{
+    "name": "poing/fence",
+    "description": "This is an alternate package, used for abandoned package test.",
+    "authors": [
+        {
+            "name": "poing",
+            "email": "brian.lavallee@invite-comm.jp"
+        }
+    ],
+    "require": {}
+}
